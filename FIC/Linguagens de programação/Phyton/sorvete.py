@@ -22,4 +22,5 @@ while sabor != 3:
         sabor = int(input('Olá! Informe o sabor desejado: \n 1-Chocolate \n 2-Morango \n 3-Sair \nDigite aqui: '))
     else:
         print('Ops! Opção inexistente, tente novamente.')
+        sabor = int(input('Olá! Informe o sabor desejado: \n 1-Chocolate \n 2-Morango \n 3-Sair \nDigite aqui: '))
 print('huuum... Não foi dessa vez, deixa pra próxima, esperamos por você!')

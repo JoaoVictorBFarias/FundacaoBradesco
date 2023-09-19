@@ -21,7 +21,7 @@ public class Sequencia{
             }else{
                 System.out.println(n1+"\n"+"\n"+n3+"\n"+n2);
             }
-
+        s.close();
         }
         else if(n2 <n1 && n2 < n3){
             if(n1 < n3){

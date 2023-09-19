@@ -14,6 +14,6 @@ class Parimpa{
     }else{
         System.out.println("O número "+num+" é ímpar!");
     }
-
+    s.close();
    }
 }

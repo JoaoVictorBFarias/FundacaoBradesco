@@ -23,5 +23,6 @@ class Programa {
         
         // Exibe a média calculada no console
         System.out.println("A média do aluno foi: " + media);
+        s.close();
     }
 }

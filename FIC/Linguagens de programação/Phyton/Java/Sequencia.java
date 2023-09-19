@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Menor {
+public class Sequencia{
     public static void main(String[] args) {
         double n1=0.0, n2=0.0, n3 = 0.0;
 
@@ -37,9 +37,6 @@ public class Menor {
             }else{
                 System.out.println(n3+"\n"+"\n"+n2+"\n"+n1);
             }
-
         }
-
-
     }
 }
